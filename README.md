@@ -1,4 +1,4 @@
-![Markdown-badge-rksdutt-stripped-image](https://raw.githubusercontent.com/dev-ron-ee/README.md-Badges/main/image.jpeg)
+![Markdown-badge-rksdutt-stripped-image](https://raw.githubusercontent.com/dev-ron-ee/README.md-Badges/main/Banner.jpeg)
 
 # Markdown Badges
 Add badges to your Profile and Projects.
